@@ -1,0 +1,17 @@
+{
+  "version": "2026-03",
+  "uvtValue": 52374,
+  "uvtYear": 2026,
+  "usuryResolution": "Res. SFC 0405/2026",
+  "usuryLimits": {
+    "consumo": 25.52,
+    "consumoBajoMonto": 63.93,
+    "productivoMayorMonto": 40.80,
+    "productivoRural": 31.41,
+    "productivoUrbano": 58.04,
+    "popularRural": 71.31,
+    "popularUrbano": 87.83
+  },
+  "gmfRate": 0.004,
+  "cdtRetention": 0.04
+}
