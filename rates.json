@@ -3,15 +3,15 @@
   "uvtValue": 52374,
   "uvtYear": 2026,
   "usuryPeriod": "Abril 2026",
-  "usuryResolution": "Res. SFC XXXX/2026",
+  "usuryResolution": "Res. SFC 0517/2026",
   "usuryLimits": {
-    "consumo": 25.52,
-    "consumoBajoMonto": 63.93,
-    "productivoMayorMonto": 40.80,
-    "productivoRural": 31.41,
-    "productivoUrbano": 58.04,
-    "popularRural": 71.31,
-    "popularUrbano": 87.83
+    "consumo": 26.76,
+    "consumoBajoMonto": 62.72,
+    "productivoMayorMonto": 41.60,
+    "productivoRural": 32.67,
+    "productivoUrbano": 58.20,
+    "popularRural": 68.81,
+    "popularUrbano": 86.88
   },
   "gmfRate": 0.004,
   "cdtRetention": 0.04
