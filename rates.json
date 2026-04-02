@@ -1,8 +1,9 @@
 {
-  "version": "2026-03",
+  "version": "2026-04",
   "uvtValue": 52374,
   "uvtYear": 2026,
-  "usuryResolution": "Res. SFC 0405/2026",
+  "usuryPeriod": "Abril 2026",
+  "usuryResolution": "Res. SFC XXXX/2026",
   "usuryLimits": {
     "consumo": 25.52,
     "consumoBajoMonto": 63.93,
